@@ -4,7 +4,7 @@
 
 ## 1_Small_Amp.ipynb
 
-使用 Python 繪圖功能，解說正弦波的波數、波形與波速等觀念。
+使用 Python 繪圖功能，解說微小振幅波的波數、波形與波速等觀念。
 
 ## 2_DispersionEq.ipynb
 

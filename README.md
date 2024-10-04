@@ -13,7 +13,7 @@
 如個人電腦中有安裝 Jupyter Notebook (例如安裝了 Anaconda)，便可將此 Notebook 下載至硬碟，
 再用 Jupyter Notebook 開啟。
 
-Anaconda 的安裝教學，可參見此連結：https://simplelearn.tw/2022/08/09/anaconda-3-介紹及安裝教學-2022更新版/
+Anaconda 的安裝教學，可參見此連結：https://simplelearn.tw/anaconda-3-intro-and-installation-guide/
 
 ### 使用 Google Colab
 點選 `Open in Colab` 按鈕，可使用 Google Colab 開啟此文件。但需要有 Google 的帳號並登入方可執行程式碼。

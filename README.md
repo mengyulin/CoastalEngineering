@@ -41,9 +41,7 @@ Anaconda 的安裝教學，可參見此連結：https://simplelearn.tw/anaconda-
 在主頁面，點選 `Code` -> `Download Zip`，可將完整的檔案以壓縮檔下載至電腦硬碟。
 
 ### 下載單一 notebook
-若該 notebook 的說明文字沒有圖檔，則可以僅下載檔名為 `主檔名.ipynb` 的檔案。
-先進入該檔案的頁面，在右上角的 `Raw` 用滑鼠右鍵點選後，選擇「另存連結為」(Windows) 或「下載連結檔案」(macOS)，
-即可下載單一檔案。
+先進入notebook檔案的頁面，點選右上角的 `Download raw file` 即可下載。
 
 注意：若下載時副檔名被修改，請回復為 `.ipynb`。
 

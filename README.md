@@ -6,6 +6,23 @@
 ## Showcase
 使用 Jupyter Notebook 呈現波浪理論與應用之相關 Python 程式碼，依講義章節分類。
 
+### 第三章 微小振幅波理論
+
+* [微小振幅波特性](https://github.com/mengyulin/CoastalEngineering/blob/master/Showcase/Chap_3/1_Small_Amp.ipynb)
+
+* [頻散關係式求解](https://github.com/mengyulin/CoastalEngineering/blob/master/Showcase/Chap_3/2_DispersionEq.ipynb)
+
+* [微小振幅波流場](https://github.com/mengyulin/CoastalEngineering/blob/master/Showcase/Chap_3/3_FlowField.ipynb)
+
+### 第四章 有限振幅波
+
+* [Stokes 波理論](https://github.com/mengyulin/CoastalEngineering/blob/master/Showcase/Chap_4/1_StokesWaves.ipynb)
+
+* [Stokes 波三階解波速](https://github.com/mengyulin/CoastalEngineering/blob/master/Showcase/Chap_4/Stokes3rdWaveSpeed_Exe.ipynb)
+
+* [例題 4.1 Stokes波之波速計算](https://github.com/mengyulin/CoastalEngineering/blob/master/Showcase/Chap_4/Chap_4%20Examples.ipynb)
+
+
 ## 程式碼的執行方法
 上課或回家練習時，有兩種方法可以執行 notebook 中的程式碼：
 

@@ -154,7 +154,7 @@ class LeMehauteDiagram(object):
         xpos0_break_s = self.line4[12,1]
         xpos1_break_s = xpos_s
 
-        plt.annotate("BREAKING CRITERION\n(SOLITARY WAVE)\n"r"$\mathrm{\frac{H}{d}=0.78}}$", xy=(xpos0_break_s,  ypos0_break_s ), 
+        plt.annotate("BREAKING CRITERION\n(SOLITARY WAVE)\n"r"$\mathrm{\frac{H}{d}=0.78}$", xy=(xpos0_break_s,  ypos0_break_s ), 
                     xytext=(xpos1_break_s, ypos1_break_s ), color=color_txt,
                     arrowprops=dict(color=color_txt, lw=1, arrowstyle='->'), zorder=10, ha='center')
 
@@ -165,7 +165,7 @@ class LeMehauteDiagram(object):
         xpos0_break_d = xpos_d
         xpos1_break_d = xpos_i
 
-        plt.annotate("DEEP WATER\nBREAKING CRITERION\n"r"$\mathrm{\frac{H}{\lambda}=0.142}}$", xy=(xpos0_break_d,  ypos0_break_d ), 
+        plt.annotate("DEEP WATER\nBREAKING CRITERION\n"r"$\mathrm{\frac{H}{\lambda}=0.142}$", xy=(xpos0_break_d,  ypos0_break_d ), 
                     xytext=(xpos1_break_d, ypos1_break_d ), color=color_txt,
                     arrowprops=dict(color=color_txt, lw=1, arrowstyle='->'), zorder=10, ha='center')
 
@@ -176,7 +176,7 @@ class LeMehauteDiagram(object):
         self.ax.xaxis.set_major_formatter(matplotlib.ticker.FormatStrFormatter('%g'))
         self.ax.minorticks_off()
         y_ticks = self.ax.yaxis.get_major_ticks()
-        y_ticks[1].label.set_visible(False)
+        y_ticks[1].label1.set_visible(False)
         self.ax.set_xlim([lim_left, lim_right])
         self.ax.set_ylim([lim_bot, lim_top])
         self.ax.set_xlabel(r'$\mathrm{\frac{d}{gT^2}}$', size=self.fs_axlabel)

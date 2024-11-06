@@ -45,10 +45,4 @@ Anaconda 的安裝教學，可參見此連結：https://simplelearn.tw/anaconda-
 
 注意：若下載時副檔名被修改，請回復為 `.ipynb`。
 
-### 下載 notebook 及其圖檔 (即下載個別目錄)
-首先進入該目錄頁面，複製其連結位址，張貼至此網站：
-https://minhaskamal.github.io/DownGit/#/home
-
-點選 `Download` 後即可下載。
-
 

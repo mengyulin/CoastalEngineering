@@ -24,6 +24,12 @@
 
 * [Le Méhauté Diagram (1976)](https://github.com/mengyulin/CoastalEngineering/blob/master/Showcase/Chap_4/le-mehaute-diagram/Le_Mehaute_Diagram.ipynb)
 
+### 第六章 海岸水面之長週期波動
+
+* [三維水池共振 (3D 動畫)](https://github.com/mengyulin/CoastalEngineering/blob/master/Showcase/Chap_6/BasinOscillation_Ani3D.ipynb)
+
+* [三維水池共振 (2D 動畫)](https://github.com/mengyulin/CoastalEngineering/blob/master/Showcase/Chap_6/BasinOscillation_Ani2D.ipynb)
+
 
 ## 程式碼的執行方法
 上課或回家練習時，有兩種方法可以執行 notebook 中的程式碼：
@@ -46,5 +52,3 @@ Anaconda 的安裝教學，可參見此連結：https://simplelearn.tw/anaconda-
 先進入notebook檔案的頁面，點選右上角的 `Download raw file` 即可下載。
 
 注意：若下載時副檔名被修改，請回復為 `.ipynb`。
-
-

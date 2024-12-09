@@ -32,6 +32,8 @@
 
 ### 第七章 波浪統計與頻率分析
 
+* [Fourier Series (Steve Brunton)](https://github.com/mengyulin/CoastalEngineering/blob/master/Showcase/Chap_7/CH02_SEC01_1_FourierSines.ipynb)
+
 * [Fast Fourier Transform: Python Code](https://github.com/mengyulin/CoastalEngineering/blob/master/Showcase/Chap_7/2_FFT.ipynb)
 
 ## 程式碼的執行方法
@@ -55,3 +57,7 @@ Anaconda 的安裝教學，可參見此連結：https://simplelearn.tw/anaconda-
 先進入notebook檔案的頁面，點選右上角的 `Download raw file` 即可下載。
 
 注意：若下載時副檔名被修改，請回復為 `.ipynb`。
+
+```python
+
+```

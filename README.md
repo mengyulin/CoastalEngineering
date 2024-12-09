@@ -30,6 +30,9 @@
 
 * [三維水池共振 (2D 動畫)](https://github.com/mengyulin/CoastalEngineering/blob/master/Showcase/Chap_6/BasinOscillation_Ani2D.ipynb)
 
+### 第七章 波浪統計與頻率分析
+
+* [Fast Fourier Transform: Python Code](https://github.com/mengyulin/CoastalEngineering/blob/master/Showcase/Chap_7/2_FFT.ipynb)
 
 ## 程式碼的執行方法
 上課或回家練習時，有兩種方法可以執行 notebook 中的程式碼：

@@ -36,6 +36,10 @@
 
 * [Fast Fourier Transform: Python Code](https://github.com/mengyulin/CoastalEngineering/blob/master/Showcase/Chap_7/2_FFT.ipynb)
 
+### 期末專題
+
+* [波浪頻譜分析](https://github.com/mengyulin/CoastalEngineering/blob/master/Showcase/Final_Project/FFT/FFT_Examp.ipynb)
+
 ## 程式碼的執行方法
 上課或回家練習時，有兩種方法可以執行 notebook 中的程式碼：
 
